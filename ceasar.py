@@ -2,7 +2,7 @@
 
 from rsa import encrypt
 
-number1 = str(input("What do you what to encrypt: "))
+number1 = str(input("What do you what to encrypt/decrypt: "))
 number2 = int(input("key: "))
 #selection of key and word that want to be encrypted
 
