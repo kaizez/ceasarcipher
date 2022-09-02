@@ -1,6 +1,6 @@
 
-To encypt follow the prompt given when excecuting the file
-key is the amount of time you want to shift the alphabets forward
+To encypt follow the prompt given when excecuting the file,
+The key is the amount of time you want to shift the alphabets forward
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
